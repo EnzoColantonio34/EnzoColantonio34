@@ -34,5 +34,5 @@
 ## 📫 Contact
 
 - Email: [enzo.colantonio@sfr.fr](mailto:enzo.colantonio@sfr.fr)
-- LinkedIn: [Enzo Colantonio]([https://www.linkedin.com/in/Enzo%20COLANTONIO](https://www.linkedin.com/in/enzo-colantonio-926905189/))
+- LinkedIn: [Enzo Colantonio](https://www.linkedin.com/in/enzo-colantonio-926905189)
 - GitHub: [@EnzoColantonio34](https://github.com/EnzoColantonio34)
