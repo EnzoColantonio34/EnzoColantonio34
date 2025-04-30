@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Enzo Colantonio</h1>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EnzoColantonio34)
 <p align="center">
   🎓 Fullstack Developer · Master’s in Computer Science @ YNOV Montpellier<br>
   💻 Dev · DevOps · SysAdmin · 4+ Years of Experience<br>
@@ -46,3 +45,5 @@
 - 🧠 Currently learning: Kubernetes & Cloud architecture
 - 🤖 I love automating things and improving CI/CD pipelines
 - 🎮 Hobbies: draws, movies, sport, and gaming
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EnzoColantonio34)
