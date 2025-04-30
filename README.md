@@ -51,7 +51,7 @@
 ### 🎶 My Latest Tracks
 <p align="center">
   <a href="https://open.spotify.com/user/11183414815">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11183414815&count={5}" alt="Spotify">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11183414815&count=5" alt="Spotify">
   </a>
 </p>
 
