@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Enzo Colantonio</h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoColantonio34&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=EnzoColantonio34&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
 <p align="center">
   🎓 Fullstack Developer · Master’s in Computer Science @ YNOV Montpellier<br>
