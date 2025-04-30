@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=EnzoColantonio34&data=followers,repositories,stars,commits&theme=darkmode" width="80%" alt="GitHub WidgetBox" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=EnzoColantonio34&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
 </p>
 
