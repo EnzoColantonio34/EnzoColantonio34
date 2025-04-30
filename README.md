@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Enzo Colantonio</h1>
-<p align="center">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EnzoColantonio34)</p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EnzoColantonio34)
 <p align="center">
   🎓 Fullstack Developer · Master’s in Computer Science @ YNOV Montpellier<br>
   💻 Dev · DevOps · SysAdmin · 4+ Years of Experience<br>
