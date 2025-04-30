@@ -45,3 +45,5 @@
 - 🧠 Currently learning: Kubernetes & Cloud architecture
 - 🤖 I love automating things and improving CI/CD pipelines
 - 🎮 Hobbies: draws, movies, sport, and gaming
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EnzoColantonio34)
