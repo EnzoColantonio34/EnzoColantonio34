@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 Fullstack Developer · Master’s in Computer Science @ YNOV Montpellier<br>
+  🎓 DevOps & Fullstack Developer · Master’s @ YNOV Montpellier<br>
   💻 Dev · DevOps · SysAdmin · 4+ Years of Experience<br>
   🚀 Passionate about building innovative & scalable solutions
 </p>
